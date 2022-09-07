@@ -5,7 +5,7 @@ import random
 
 ## pic latest followers
 def getLatestFollowers(user, howMany):
-    return user.user_following(user.account_info().pk, amount=howMany)
+    return user.user_followers(user.account_info().pk, amount=howMany)
 ## get my Total followers (not used)
 def getTotalFollowers(user):
     return user.user_info_by_username(user.account_info().username).follower_count
