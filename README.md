@@ -48,6 +48,7 @@ the `instagrapi` package is not an api but a simulated `Xiaomi Mi 5s` phone, so 
 * [moviepy](https://zulko.github.io/moviepy/install.html)
 * [anaconda](https://www.anaconda.com/products/distribution)
 * [vscode Notebook](https://www.youtube.com/watch?v=h1sAzPojKMg&t=57s)
+* [schedule python script](https://www.youtube.com/watch?v=ic4lUiDTbVI)
 
 
 # Login functions
