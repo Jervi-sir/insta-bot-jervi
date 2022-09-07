@@ -3,6 +3,8 @@ trying to automate some theme pages with this, since m always consumed with codi
 
 the `instagrapi` package is not an api but a simulated `Xiaomi Mi 5s` phone, so technically m just required to input a verification code, and I also save the credentials into a `pickle` file so I won't abuse instagram login requests
 
+<h2 style="font-weight:bold; color:#ff4040 ">Remark</h2>
+<span>account used is getting locked which is obvious but not banned, since it just asks for code verification</span>
 <details open>
   <summary >
     <span style="font-size:25px; font-weight:700">
